@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1725fb65-7d26-4f0c-91d5-043738063d87" name="Changes" comment="Inicialização do projeto.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Conta.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1725fb65-7d26-4f0c-91d5-043738063d87" name="Changes" comment="Criação da classe Conta.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Funcionario.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653434740149</updated>
-      <workItem from="1653434742322" duration="1444000" />
+      <workItem from="1653434742322" duration="1978000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialização do projeto.">
       <created>1653435257229</created>
@@ -77,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653435257229</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Criação da classe Conta.kt">
+      <created>1653436227512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653436227512</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicialização do projeto." />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicialização do projeto." />
+    <MESSAGE value="Criação da classe Conta.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação da classe Conta.kt" />
   </component>
 </project>
