@@ -3,15 +3,15 @@ class Diretor(
     cpf: String,
     salario: Double,
     val senha: Int,
-    val prl: Double
+    val plr: Double
 ) : Funcionario(
     nome,
     cpf,
     salario
 ) {
-//    fun bonificacao(): Double {
-//        return salario * 0.2
-//    }
+    override fun bonificacao(): Double {
+        return salario * 0.3
+    }
 
     fun autentica(senha: Int): Boolean{
         if (this.senha == senha) {
@@ -24,7 +24,7 @@ class Diretor(
         return "\nNome: '$nome'" +
                 "\nCPF: '$cpf'" +
                 "\nSalario: $salario" +
-                "\nPRL: $prl" +
+                "\nPRL: $plr" +
                 "\nBonificacao: ${bonificacao()}"
     }
 }

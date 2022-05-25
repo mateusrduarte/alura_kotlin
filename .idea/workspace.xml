@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1725fb65-7d26-4f0c-91d5-043738063d87" name="Changes" comment="Criação da classe Gerente.kt e melhoria do método de bonificação">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Diretor.kt" afterDir="false" />
+    <list default="true" id="1725fb65-7d26-4f0c-91d5-043738063d87" name="Changes" comment="Criação da classe Diretor.kt e melhoria da classe Gerente.kt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Diretor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Diretor.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Funcionario.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Funcionario.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Gerente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Gerente.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <updated>1653434740149</updated>
       <workItem from="1653434742322" duration="1978000" />
       <workItem from="1653477396474" duration="3492000" />
-      <workItem from="1653482329959" duration="2244000" />
+      <workItem from="1653482329959" duration="3331000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialização do projeto.">
       <created>1653435257229</created>
@@ -103,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653480840920</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Criação da classe Diretor.kt e melhoria da classe Gerente.kt">
+      <created>1653485715714</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653485715714</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +130,8 @@
     <MESSAGE value="Inicialização do projeto." />
     <MESSAGE value="Criação da classe Conta.kt" />
     <MESSAGE value="Criação da classe Gerente.kt e melhoria do método de bonificação" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação da classe Gerente.kt e melhoria do método de bonificação" />
+    <MESSAGE value="Criação da classe Diretor.kt e melhoria da classe Gerente.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação da classe Diretor.kt e melhoria da classe Gerente.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
