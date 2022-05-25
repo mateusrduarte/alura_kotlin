@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1725fb65-7d26-4f0c-91d5-043738063d87" name="Changes" comment="Criação da classe Conta.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Funcionario.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Gerente.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Funcionario.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Funcionario.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/mateus.duarte/IdeaProjects/alura_kotlin",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653434740149</updated>
       <workItem from="1653434742322" duration="1978000" />
+      <workItem from="1653477396474" duration="2007000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialização do projeto.">
       <created>1653435257229</created>
