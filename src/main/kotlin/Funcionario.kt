@@ -11,7 +11,7 @@ open class Funcionario(
         return "\nNome: '$nome'" +
                 "\nCPF: '$cpf'" +
                 "\nSalario: $salario" +
-                "\nBonificacao: ${bonificacao()}"
+                "\nSalario Total: ${bonificacao() + salario}"
     }
 
 

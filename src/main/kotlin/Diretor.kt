@@ -10,7 +10,7 @@ class Diretor(
     salario
 ) {
     override fun bonificacao(): Double {
-        return salario * 0.3
+        return super.bonificacao() + salario + plr
     }
 
     fun autentica(senha: Int): Boolean{
@@ -25,6 +25,6 @@ class Diretor(
                 "\nCPF: '$cpf'" +
                 "\nSalario: $salario" +
                 "\nPRL: $plr" +
-                "\nBonificacao: ${bonificacao()}"
+                "\nSalario Total: ${bonificacao()}"
     }
 }
