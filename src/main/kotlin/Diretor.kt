@@ -1,8 +1,9 @@
-class Gerente(
+class Diretor(
     nome: String,
     cpf: String,
     salario: Double,
-    val senha: Int
+    val senha: Int,
+    val prl: Double
 ) : Funcionario(
     nome,
     cpf,
@@ -23,6 +24,7 @@ class Gerente(
         return "\nNome: '$nome'" +
                 "\nCPF: '$cpf'" +
                 "\nSalario: $salario" +
+                "\nPRL: $prl" +
                 "\nBonificacao: ${bonificacao()}"
     }
 }

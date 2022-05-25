@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1725fb65-7d26-4f0c-91d5-043738063d87" name="Changes" comment="Criação da classe Conta.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Gerente.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1725fb65-7d26-4f0c-91d5-043738063d87" name="Changes" comment="Criação da classe Gerente.kt e melhoria do método de bonificação">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Diretor.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Funcionario.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Funcionario.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Gerente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Gerente.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +47,15 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
@@ -73,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1653434740149</updated>
       <workItem from="1653434742322" duration="1978000" />
-      <workItem from="1653477396474" duration="2007000" />
+      <workItem from="1653477396474" duration="3492000" />
+      <workItem from="1653482329959" duration="2244000" />
     </task>
     <task id="LOCAL-00001" summary="Inicialização do projeto.">
       <created>1653435257229</created>
@@ -89,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653436227512</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criação da classe Gerente.kt e melhoria do método de bonificação">
+      <created>1653480840920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653480840920</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +123,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicialização do projeto." />
     <MESSAGE value="Criação da classe Conta.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação da classe Conta.kt" />
+    <MESSAGE value="Criação da classe Gerente.kt e melhoria do método de bonificação" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação da classe Gerente.kt e melhoria do método de bonificação" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
